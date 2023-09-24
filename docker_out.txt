@@ -1,0 +1,12 @@
+REPOSITORY                    TAG       IMAGE ID       CREATED          SIZE
+microproject                  latest    cab4a3b439bf   4 seconds ago    1.33GB
+binlv2011/microproject        v1.0.0    1c896ff945fc   44 minutes ago   1.33GB
+<none>                        <none>    8f20554507a8   50 minutes ago   1.33GB
+<none>                        <none>    12404f4814b8   55 minutes ago   1.33GB
+gcr.io/k8s-minikube/kicbase   v0.0.40   c6cc01e60919   2 months ago     1.19GB
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+~                    
